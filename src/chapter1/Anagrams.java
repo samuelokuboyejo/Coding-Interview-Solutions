@@ -1,4 +1,4 @@
-//1.4 Write a method to decide if two strings are anagrams or not.
+package chapter1;//1.4 Write a method to decide if two strings are anagrams or not.
 
 import java.util.Arrays;
 
